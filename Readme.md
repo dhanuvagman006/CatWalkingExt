@@ -1,8 +1,6 @@
 # Cat Extension
 
-A simple Chrome extension that adds two fun cats to every webpage:
-- A walking cat that moves from left to right.
-- A sleeping cat fixed in the bottom-left corner.
+A Chrome Extension that makes two meow meow cats to vibe within your Screeennn!
 
 ## Preview
 
