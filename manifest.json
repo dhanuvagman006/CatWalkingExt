@@ -10,6 +10,15 @@
       "js": ["content.js"]
     }
   ],
+  "icons": {
+    "128": "icon.png"
+  },
+
+  "action": {
+    "default_icon": {
+      "16": "icon.png"
+    }
+  },
 
   "web_accessible_resources": [
     {

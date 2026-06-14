@@ -41,20 +41,20 @@ window.addEventListener("load", () => {
 
 
 
-  const cornerCat = document.createElement("img");
+//   const cornerCat = document.createElement("img");
 
-  // second gif
-  cornerCat.src = chrome.runtime.getURL("sleeping-cat.gif");
+//   // second gif
+//   cornerCat.src = chrome.runtime.getURL("sleeping-cat.gif");
 
-  // fixed bottom-left
-  cornerCat.style.position = "fixed";
-  cornerCat.style.bottom = "5px";
-  cornerCat.style.left = "1px";
-  cornerCat.style.width = "120px";
-  cornerCat.style.zIndex = "2147483647";
-  cornerCat.style.pointerEvents = "none";
+//   // fixed bottom-left
+//   cornerCat.style.position = "fixed";
+//   cornerCat.style.bottom = "5px";
+//   cornerCat.style.left = "1px";
+//   cornerCat.style.width = "120px";
+//   cornerCat.style.zIndex = "2147483647";
+//   cornerCat.style.pointerEvents = "none";
 
-  // add to page
-  document.body.appendChild(cornerCat);
+//   // add to page
+//   document.body.appendChild(cornerCat);
 
 });
