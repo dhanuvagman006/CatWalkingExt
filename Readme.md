@@ -28,6 +28,8 @@ Meow Meoww
 4. Select this folder: `CatWalkingExt`.
 5. Open or refresh any webpage.
 
+Bro first clone this then follow the above steps,don't be orange cat.
+
 ## How To Use
 
 1. After loading, browse to any website.
