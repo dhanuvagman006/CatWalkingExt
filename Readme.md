@@ -6,11 +6,11 @@ A simple Chrome extension that adds two fun cats to every webpage:
 
 ## Preview
 
-Walking cat animation:
+Meow Meoww
 
 ![Walking cat preview](walking-cat.gif)
 
-Sleeping cat sticker:
+
 
 ![Sleeping cat preview](sleeping-cat.gif)
 
